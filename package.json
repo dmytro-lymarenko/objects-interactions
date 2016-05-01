@@ -1,0 +1,26 @@
+{
+  "name": "objects-interactions",
+  "version": "0.0.1",
+  "description": "Objects interactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require tests/setup.js --recursive tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmytro-lymarenko/objects-interactions.git"
+  },
+  "keywords": [
+    "objects",
+    "interactions"
+  ],
+  "author": "dmytro.lymarenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmytro-lymarenko/objects-interactions/issues"
+  },
+  "homepage": "https://github.com/dmytro-lymarenko/objects-interactions#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
