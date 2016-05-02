@@ -1,6 +1,6 @@
 {
   "name": "objects-interactions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Objects interactions",
   "main": "index.js",
   "scripts": {
